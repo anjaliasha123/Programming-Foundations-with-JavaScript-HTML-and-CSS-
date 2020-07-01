@@ -1,5 +1,5 @@
 # Programming-Foundations-with-JavaScript-HTML-and-CSS-
-Coursera course on Programming Foundations with JavaScript, HTML and CSS. Many of the functions used were pre-defined for the learning purpose and their documentation is available at <a href="https://www.dukelearntoprogram.com//course1/doc/">here</a>
+Coursera course on Programming Foundations with JavaScript, HTML and CSS. Many of the functions used were pre-defined for the learning purpose and their documentation is available at <a href="https://www.dukelearntoprogram.com//course1/doc/">here</a>.
 
 <ul>
 <li> Code 1: <br>
