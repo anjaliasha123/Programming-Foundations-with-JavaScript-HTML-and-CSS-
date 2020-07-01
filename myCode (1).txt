@@ -1,0 +1,19 @@
+// write your code here
+
+function swapRedGreen(img)
+{
+    for(var pixel of img.values())
+    {
+        var r = pixel.getRed();
+        var b = pixel.getGreen();
+        pixel.setRed(b);
+        pixel.setGreen(r);
+    }
+    print(img);
+}
+
+
+var img = new SimpleImage("hippieflower.jpg");
+print(img)
+swapRedGreen(img)
+
